@@ -15,7 +15,7 @@
     "cors": "^2.8.5",
     "ethers": "^5.7.2",
     "http-proxy-middleware": "^2.0.6",
-    "ipfs-http-client": "^50.1.2",
+    "ipfs-http-client": "^60.0.1",
     "ndjson": "^2.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
